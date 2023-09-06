@@ -8,7 +8,6 @@ Feel free to explore my repositories, projects, and contributions. If you have a
 ![Your Badge](https://img.shields.io/badge/GitSalute-Ready%20to%20Collaborate-brightgreen)
 
 
-<h1 align="center">Hi 👋, Reddy Massidi semi</h1>
 <h3 align="center">A full stack Symfony developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massidi&label=Profile%20views&color=0e75b6&style=flat" alt="massidi" /> </p>
