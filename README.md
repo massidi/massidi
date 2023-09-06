@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFtsgX6D1c/view)](https://your-link)
+[![MasterHead](https://www.canva.com/design/DAFtsgX6D1c/view)]([https://your-link](https://www.canva.com/design/DAFtsgX6D1c/view))
 
 
 <h1 align="center">Hi 👋, Reddy Massidi semi</h1>
